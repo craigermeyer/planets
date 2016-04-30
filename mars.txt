@@ -1,3 +1,7 @@
 Cold and dry, but everything is my favorite color.
+<<<<<<< HEAD
 Some more text has been added.
 Stay determined.
+=======
+This time it'll save
+>>>>>>> sidebranch
